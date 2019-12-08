@@ -6,6 +6,7 @@ import (
 
 struct Node {
 	id int
+mut:
 	data string
 }
 
