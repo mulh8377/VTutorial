@@ -1,3 +1,10 @@
+/*
+-$- /t/t/t @FILE: example.v
+-$- /t/t/t @AUTHOR: mulh8377
+-$- /t/t/t @VERSION: 1.0
+-$- /t/t/t @DESCRIPTION: very simple examples using the vlib string library.
+*/
+
 module main
 
 const (
