@@ -11,7 +11,6 @@ import (
 	time
 )
 
-
 fn main() {
 	run()
 }
