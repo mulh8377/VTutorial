@@ -79,7 +79,5 @@ fn main() {
 	for t in tot_nodes {
 		println(print_node(t))
 	}
-	
-
 
 }
